@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int calculate(int number1, int number2);
+int calculate(int , int);
 
 int main(){
 
